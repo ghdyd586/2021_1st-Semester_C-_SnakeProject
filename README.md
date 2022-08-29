@@ -1,7 +1,7 @@
 # 2021_1st-Semester_cpp_SnakeProject_J3
 This is the C++ project that contains snakegame by Cmake.
 
-### <How to use>
+<How to use>
 step 1. install ncurses 
 $ sudo apt-get install libncurses5-dev libncursesw5-dev
 
